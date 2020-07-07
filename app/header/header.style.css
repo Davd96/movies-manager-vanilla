@@ -1,0 +1,12 @@
+.header {
+    background: lightgrey;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.search-button {
+    height: 30px;
+}
+
