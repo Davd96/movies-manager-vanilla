@@ -1,0 +1,42 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 250px;
+    height: 400px;
+    margin: 20px;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-between;
+    padding: 2px 16px;
+}
+
+#film-list {
+    display: flex;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.search-empty {
+    width: 100%;
+    text-align: center;
+}
+
+.search-empty-text {
+    font-size: 25px;
+    text-align: center;
+}
