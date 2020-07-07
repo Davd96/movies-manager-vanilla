@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+.title-container {
+    width: 100%;
+    text-align: center;
+    margin: 10px;
+}
+
+.title {
+    font-size: 35px;
+    margin: 10px;
+}
