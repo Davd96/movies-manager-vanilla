@@ -1,0 +1,28 @@
+#detail-parent {
+    width: 100%;
+    text-align: center;
+}
+
+#detail-parent-row {
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+    margin: 30px;
+    justify-content: center;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 400px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 20px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
