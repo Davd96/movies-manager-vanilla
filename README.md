@@ -17,4 +17,6 @@ If you prefer you can raise the server from python by executing the following co
 
 Both ways will serve the application in the following link http://localhost:8080
 
+## Credentials
 
+Logging is mocked, so any username and password will be valid.
