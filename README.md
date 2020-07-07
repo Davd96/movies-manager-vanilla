@@ -11,7 +11,7 @@ From the root of the project run:
 
     From the root of the project run: 
 
-If you prefer you can raise the server from python by executing the following command in the root of the project
+If you prefer you can raise the server from python by executing the following command in the root of the project:
 
     python -m SimpleHTTPServer 8080
 
